@@ -1,39 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@alanmckeon
-Learn Git and GitHub without any code!
-
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-alanmckeon /
-azure
-Private
-
-1
-0
-
-    0
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-
-    Settings
-
-azure/beardbase
-@alanmckeon
-alanmckeon Create beardbase
-Latest commit 6619848 now
-History
-1 contributor
-566 lines (566 sloc) 23.8 KB
 {
     "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.2",
